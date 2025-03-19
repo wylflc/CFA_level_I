@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "238bc903aac09d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71a361a7fff2ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5024ddca4bdd8254",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f798fb59b8f1393",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4adc3539d6d1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c14f796fcd13b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db282da0e91d41d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40a85b3310c9c678",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cc1f5ee91416f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99e87b8959f58f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "446c8910e82d343b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Quantitative Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-Quantitative Methods"
+            }
+          },
+          {
+            "id": "a23c2513be52ee46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Quantitative Methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-Quantitative Methods"
+            }
+          },
+          {
+            "id": "f3d2967c5b453d30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38b6f0145c982a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Quantitative Methods.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-Quantitative Methods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5024ddca4bdd8254",
+  "lastOpenFiles": [
+    "Quantitative_Methods/Pasted image 20250319141521.png",
+    "Quantitative_Methods/Pasted image 20250318151953.png",
+    "Quantitative_Methods/Pasted image 20250318140926.png",
+    "Quantitative_Methods/Pasted image 20250317161715.png",
+    "Quantitative_Methods/Pasted image 20250317155657.png",
+    "Quantitative_Methods/Pasted image 20250312162423.png",
+    "Quantitative_Methods/1 Quantitative Methods 1.1.4~1.1.5.md",
+    "Quantitative_Methods/1 Quantitative Methods 1.1.1～1.1.3.md",
+    "Quantitative_Methods",
+    "cover.png",
+    "Pasted image 20250319141521.png",
+    "Pasted image 20250318151953.png",
+    "Pasted image 20250318140926.png",
+    "Pasted image 20250317161715.png",
+    "1 Quantitative Methods 1.1.4~1.1.5.md",
+    "1 Quantitative Methods 1.1.1～1.1.3.md",
+    "Methods/Quantitative",
+    "Methods/1 Quantitative Methods 1.1.4~1.1.5.md",
+    "Methods/1 Quantitative Methods 1.1.1～1.1.3.md",
+    "Methods",
+    "Quantitative",
+    "~$1.1~1.1.3.docx",
+    "1.1.1~1.1.3.docx"
+  ]
+}
