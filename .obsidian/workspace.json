@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a71a361a7fff2ff9",
+        "id": "db2871869f36ca98",
         "type": "tabs",
         "children": [
           {
-            "id": "5024ddca4bdd8254",
+            "id": "6feed0fca60e49a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quantitative_Methods/1 Quantitative Methods 1.2.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 Quantitative Methods 1.2.1"
             }
           }
         ]
@@ -164,22 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5024ddca4bdd8254",
+  "active": "6feed0fca60e49a2",
   "lastOpenFiles": [
+    "Quantitative_Methods/Pasted image 20250319170546.png",
+    "Quantitative_Methods/Pasted image 20250319161341.png",
+    "Pasted image 20250319170546.png",
+    "Pasted image 20250319161341.png",
+    "Quantitative_Methods/1 Quantitative Methods 1.1.4~1.1.5.md",
+    "Quantitative_Methods/1 Quantitative Methods 1.2.1.md",
     "Quantitative_Methods/Pasted image 20250319141521.png",
     "Quantitative_Methods/Pasted image 20250318151953.png",
     "Quantitative_Methods/Pasted image 20250318140926.png",
     "Quantitative_Methods/Pasted image 20250317161715.png",
     "Quantitative_Methods/Pasted image 20250317155657.png",
     "Quantitative_Methods/Pasted image 20250312162423.png",
-    "Quantitative_Methods/1 Quantitative Methods 1.1.4~1.1.5.md",
     "Quantitative_Methods/1 Quantitative Methods 1.1.1～1.1.3.md",
     "Quantitative_Methods",
     "cover.png",
-    "Pasted image 20250319141521.png",
-    "Pasted image 20250318151953.png",
-    "Pasted image 20250318140926.png",
-    "Pasted image 20250317161715.png",
     "1 Quantitative Methods 1.1.4~1.1.5.md",
     "1 Quantitative Methods 1.1.1～1.1.3.md",
     "Methods/Quantitative",

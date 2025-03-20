@@ -111,7 +111,11 @@ C. 不正确，因为C计算的是$\ln\left(0.06\times4\right)\times 2000=-2854$
 - 投资者可以交易期货合约，在这种情况下，所需的资金可能仅为资产名义价值的10%。
 - 投资者可以借钱来购买资产。在借钱情况下，只有当借钱部分的收益高于借钱的利率时，才是划算的。
   $$
-   R_L = \frac{总回报}{净值} = \frac{R_P\times (V_E+V_B) - V_B\times R_D}{V_E} = R_P + \frac{V_B}{V_E}(R_P-R_D)
+   \begin{align*}
+   R_L &= \frac{总回报}{净值} \\
+   &= \frac{R_P\times (V_E+V_B) - V_B\times R_D}{V_E} \\
+   &= R_P + \frac{V_B}{V_E}(R_P-R_D)
+   \end{align*}
    $$
    其中，$R_P,~ R_D$为收益率和借款利率，$V_E,~V_B$分别为净资产和借入资产。
 
