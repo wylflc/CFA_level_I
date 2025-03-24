@@ -24,7 +24,10 @@ $$
 
 投资组合收益的方差衡量了投资组合整体收益的波动性，对应投资组合的**风险**，它考虑了资产之间的相关性。公式为：
 $$
-Var(R_p) = w_1^2Var(R_1) + w_2^2Var(R_2) + \cdots + w_n^2Var(R_n) + 2\sum_{i<j} w_i w_j Cov(R_i, R_j)
+\begin{align*}
+Var(R_p) = w_1^2Var(R_1) + w_2^2Var(R_2) + \cdots \\
++ w_n^2Var(R_n) + 2\sum_{i<j} w_i w_j Cov(R_i, R_j)
+\end{align*}
 $$
 其中：
 - $Var(R_p)$ 是投资组合收益的方差
@@ -87,13 +90,13 @@ $$
 
 给定两个资产 $X$ 和 $Y$ 的联合概率分布 $p(x_i, y_j)$，它们的协方差可以计算如下：
 $$
-Cov(X, Y) = \sum_{i} \sum_{j} p(x_i, y_j) \left( x_i - E(X) \right) \left( y_j - E(Y) \right)
+Cov(X, Y) = \sum_{i,j} p(x_i, y_j) \left( x_i - E_X \right) \left( y_j - E_Y \right)
 $$
 其中：
 - $x_i$ 和 $y_j$ 是资产 $X$ 和 $Y$ 可能的收益值
 - $p(x_i, y_j)$ 是对应的联合概率
-- $E(X) = \sum_{i} x_i P(X = x_i)$ 是 $X$ 的期望值
-- $E(Y) = \sum_{j} y_j P(Y = y_j)$ 是 $Y$ 的期望值
+- $E_X = \sum_{i} x_i P(X = x_i)$ 是 $X$ 的期望值
+- $E_Y = \sum_{j} y_j P(Y = y_j)$ 是 $Y$ 的期望值
 
 #### 计算相关性
 
