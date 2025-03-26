@@ -15,7 +15,7 @@
 #### 设定假设（Stating the Hypotheses）
 
 在每个假设检验中，我们需要设定两个假设：
-- **原假设（Null Hypothesis, $H_0$）**：关于总体参数的假设，除非有足够证据表明其错误，否则认为它成立。
+- **原假设（Null Hypothesis, $H_0$）**：关于总体参数的假设，除非有足够证据表明其错误，否则认为它成立。**原假设需要永远包括等号**。
 - **备择假设（Alternative Hypothesis, $H_a$）**：与原假设相对立的假设，通常是研究者希望证明的结论。
 
 **关键点：**
@@ -39,7 +39,7 @@
 - **$F$ 统计量**：服从 $F$ 分布，常用于方差齐性检验或回归分析。
 
 ![[Pasted image 20250326153800.png]]
-
+$\overline{s_d}$是标准误差，$\overline{s_d} = \frac{s}{\sqrt{n}}$。
 
 #### 指定显著性水平（Specify the Level of Significance）
 
