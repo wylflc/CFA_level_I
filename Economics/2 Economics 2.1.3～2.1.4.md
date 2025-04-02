@@ -370,7 +370,7 @@ $$
 
 #### 例题
 
-Deep River Manufacturing is one of many companies in an industry that makes a food product. Deep River units are identical up to the point they are labeled. Deep River produces its labeled brand, which sells for $2.20 per unit, and “house brands” for seven different grocery chains, which sell for $2.00 per unit. Each grocery chain sells both the Deep River brand and its house brand. The _best_ characterization of Deep River’s market is:
+Deep River Manufacturing is one of many companies in an industry that makes a food product. Deep River units are identical up to the point they are labeled. Deep River produces its labeled brand, which sells for $2.20$ per unit, and “house brands” for seven different grocery chains, which sell for $2.00$ per unit. Each grocery chain sells both the Deep River brand and its house brand. The _best_ characterization of Deep River’s market is:
 
 1. oligopoly.
 2. perfect competition.
@@ -386,7 +386,7 @@ Deep River Manufacturing 所处的市场具有以下特点：
     
 2. **产品存在差异化**：虽然 Deep River 生产的食品在物理上是相同的（“Deep River units are identical up to the point they are labeled”），但由于**品牌标签不同**，消费者可能会对不同品牌产生偏好。这是典型的**产品差异化**，符合垄断竞争市场的特征。
     
-3. **存在定价权**：Deep River 自己的品牌售价为 $2.20，而其为超市生产的“自有品牌”（house brands）售价为 $2.00，这表明它可以对不同品牌定价，而不像完全竞争市场（Perfect Competition）那样，所有公司必须接受相同的市场价格。
+3. **存在定价权**：Deep River 自己的品牌售价为 $2.20$，而其为超市生产的“自有品牌”（house brands）售价为 $2.00$，这表明它可以对不同品牌定价，而不像完全竞争市场（Perfect Competition）那样，所有公司必须接受相同的市场价格。
     
 4. **市场进入相对自由**：一般来说，食品制造行业不存在高额的进入壁垒，因此新公司可以较容易进入市场，这是**垄断竞争**的重要特征。
     
